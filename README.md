@@ -1,5 +1,5 @@
 # To-Do-List
- To-do app with notifications and checkboxes for all of us forgetful people out there
+ To-do app with notifications and checkboxes for all the forgetful people out there
 
 Forget iPhone's base reminders app, this will be your new go-to digital to-do list!
 
